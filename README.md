@@ -1,16 +1,19 @@
-# taskthree
+**Approach,**
+The design and development of this Youtube app UI were guided by the following objectives:
 
-A new Flutter project.
+1) As the Youtube's UI is accesible by everyone. I simply copied the UI in my project.
+2) I downloaded the thumbnails and titles of the videos that is on the recommended page of youtube app.
+3) Brick by brick I nearly replicated the youtube's user interface.
 
-## Getting Started
+**Challenges Faced**
+Throughout the development of the app UI, I encountered several challenges:
 
-This project is a starting point for a Flutter application.
+1) Complex Layouts: Designing a responsive layout that adapts well across different screen sizes was tricky.
+2) Custom Widgets: Creating custom widgets, posed a challenge in terms of performance and smooth rendering.
+3) Design Language: Ensuring that the app has consistent styling, such as color schemes, typography, and padding across different screens, was a challenge.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Improvements I Would Make**
+1) Support for user authentication.
+2) Improved performance.
+3) Currently, the app UI is static. In the future, I would integrate a backend service.
